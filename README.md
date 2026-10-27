@@ -1,4 +1,5 @@
 # identity-app
+![WIP](https://img.shields.io/badge/status-in--progress-yellow)
 
 RBAC identity service: users, roles, permissions, and an audit log with
  AI-assisted investigation of suspicious events.
