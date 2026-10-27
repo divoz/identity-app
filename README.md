@@ -1,7 +1,7 @@
 # identity-app
 
 RBAC identity service: users, roles, permissions, and an audit log with
-LLM-assisted investigation of suspicious events.
+ AI-assisted investigation of suspicious events.
 
 **Status:** in progress. Week 1 of 4.
 
